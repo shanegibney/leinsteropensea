@@ -1,0 +1,4 @@
+To do:
+On form submission modal needed
+validation of information main title to sit on horizon
+'Tell me more' button to be moved down
