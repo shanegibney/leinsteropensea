@@ -27,7 +27,7 @@ $fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'e
 // message that will be displayed when everything is OK :)
 
 $okMessage = 'Contact form successfully submitted to LOS admin. </br></br>Thank you, </br></br>We will get back to you soon!</br>
-</br><a href="http://www.glenalbynmasters.com">Return to home page</a>';
+</br><a href="http://www.leinsteropensea.ie">Return to home page</a>';
 
 // If something goes wrong, we will display this message.
 $errorMessage = 'There was an error while submitting the form. Please try again later';
